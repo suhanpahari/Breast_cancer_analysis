@@ -69,6 +69,8 @@ The following diagram summarizes the workflow:
                 │             Visualization                    │
                 └──────────────────────────────────────────────┘
 ────────────────────────────────────────────────────────────────────────────
+```
+
 ## Installation
 
 git clone https://github.com/yourusername/repository-name.git
