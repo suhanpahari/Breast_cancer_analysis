@@ -73,6 +73,6 @@ The following diagram summarizes the workflow:
 
 ## Installation
 
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/suhanpahari/Breast_cancer_analysis.git
 cd repository-name
 pip install -r requirements.txt
